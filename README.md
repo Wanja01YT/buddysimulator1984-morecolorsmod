@@ -6,7 +6,7 @@ A mod for *Buddy Simulator 1984* that lets you pick from 24 new favorite colors!
     
 </p>
 
-[![Static Badge](https://img.shields.io/badge/gamejolt-1.0-green?logo=gamejolt&logoColor=green)](https://gamejolt.com/games/buddysimulator1984-morecolorsmod/941834)
+[![Static Badge](https://img.shields.io/badge/gamejolt-1.1-green?logo=gamejolt&logoColor=green)](https://gamejolt.com/games/buddysimulator1984-morecolorsmod/941834)
 [![Static Badge](https://img.shields.io/badge/license-CC%204.0%20BY--NC--SA-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## Features
