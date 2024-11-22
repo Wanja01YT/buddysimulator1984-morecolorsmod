@@ -14,7 +14,7 @@ Colors included are: **teal, indigo, silver, aquamarine, rose, gold, maroon, vio
 
 ## Installation
 
-- Download the mod [here](https://github.com/Wanja01YT/buddysimulator1984-morecolorsmod/archive/refs/tags/release.zip) and extract the archive.
+- Download the mod [here](https://github.com/Wanja01YT/buddysimulator1984-morecolorsmod/archive/refs/tags/release.zip) and extract the contents of the archive.
 - This mod is shared in Xdelta patch format, so you will need to patch the following files in your *Buddy Simulator 1984* installation folder:
   
   **\Buddy Simulator 1984_Data\data.unity3d** - patch with data.xdelta<br/><br/>
